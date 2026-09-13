@@ -1,0 +1,11 @@
+{
+  "title": "Website accessibility refresh",
+  "client": "Fictional Example Studio",
+  "date": "2026-09-13",
+  "summary": "Improve keyboard and screen-reader access on the marketing site.",
+  "goals": ["Keyboard navigation", "Clear focus states", "Actionable handoff"],
+  "deliverables": ["Audit report", "Prioritized fix list", "Retest checklist"],
+  "milestones": [{"name": "Audit", "due": "2026-09-20", "owner": "Lew"}],
+  "notes": ["Synthetic sample only; use a staging site for examples."]
+}
+
